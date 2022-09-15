@@ -1,0 +1,9 @@
+Research Internship at Smartron from May 2017 – July 2017
+
+• Worked on a POC for designing the algorithm for smart elevators. Main goal of POC is to develop an algorithm for smart elevators, a
+solution to reduce waiting and traveling time of passengers experienced in conventional elevators of large buildings.
+• Implemented the POC using Master-Slave configuration on a simulated arduino setup to achieve the same. Handled data and
+communication between elevators using a circular queue.
+• https://www.tinkercad.com/things/8qtOT8WmnqU - test setup
+• https://www.geeksforgeeks.org/smart-elevator-pro-geek-cup/ - algorithm article link
+• https://getbook.at/smart-elevator - research journal published on amazon (link to amazon)
